@@ -1,6 +1,6 @@
 #### BBC BASIC code
 
-```BASIC
+```basic
 MODE1:VDU19,1,4,0,0,0,0:VDU19,2,6,0,0,0,0
 dr=64:st=16:f=20
 DIMDx%(dr):DIMDy%(dr)
@@ -37,5 +37,5 @@ Exactly 280 characters, so you'll have to reply to a tweet at the bot and remove
 
 #### GIF
 
-![is it really so hard to believe?..](so-hard-to-believe.gif)
+<img src="https://raw.githubusercontent.com/d-mckee/bbcbasic-experiments/main/02-so-hard-to-believe/so-hard-to-believe.gif" width="640">
 

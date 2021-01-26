@@ -1,6 +1,6 @@
 #### BBC BASIC code
 
-```BASIC
+```basic
 MODE 1
 COLOUR 3
 MOVE 0, 512
@@ -22,5 +22,5 @@ UNTIL FALSE
 
 #### GIF
 
-![i don't know how to use BASIC](how-to-use-basic.gif)
+<img src="https://raw.githubusercontent.com/d-mckee/bbcbasic-experiments/main/01-how-to-use-basic/how-to-use-basic.gif" width="640">
 

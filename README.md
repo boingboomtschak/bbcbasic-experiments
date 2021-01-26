@@ -6,6 +6,6 @@ More documentation on the specifics of the bot and shortening code enough to fit
 
 ### Experiments
 
-![i don't know how to use BASIC](01-how-to-use-basic/how-to-use-basic.gif)
+<img src="https://raw.githubusercontent.com/d-mckee/bbcbasic-experiments/main/01-how-to-use-basic/how-to-use-basic.gif" width="640">
 
-![is it really so hard to believe?..](02-so-hard-to-believe/so-hard-to-believe.gif)
+<img src="https://raw.githubusercontent.com/d-mckee/bbcbasic-experiments/main/02-so-hard-to-believe/so-hard-to-believe.gif" width="640">
