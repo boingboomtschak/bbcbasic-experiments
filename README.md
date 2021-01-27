@@ -25,3 +25,5 @@ A couple resources I've found that are super helpful in writing code for this bo
 <img src="https://raw.githubusercontent.com/d-mckee/bbcbasic-experiments/main/01-how-to-use-basic/how-to-use-basic.gif" width="640">
 
 <img src="https://raw.githubusercontent.com/d-mckee/bbcbasic-experiments/main/02-so-hard-to-believe/so-hard-to-believe.gif" width="640">
+
+<img src="https://raw.githubusercontent.com/d-mckee/bbcbasic-experiments/main/03-adrift-afloat-lost/adrift-afloat-lost.gif" width="640">
