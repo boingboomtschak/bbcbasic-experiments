@@ -18,6 +18,8 @@ A couple resources I've found that are super helpful in writing code for this bo
 
 - [RISCOS.com's reference manual for BBC BASIC](http://www.riscos.com/support/developers/bbcbasic/)
 
+- [A tool written by 8bitkick to minimize VDU codes into strings to further minify code](https://8bitkick.github.io/vdu/)
+
 ### Experiments
 
 <img src="https://raw.githubusercontent.com/d-mckee/bbcbasic-experiments/main/01-how-to-use-basic/how-to-use-basic.gif" width="640">
